@@ -1,0 +1,6 @@
+# Code::Blocks temporary files
+obj/
+bin/
+*.o
+*.depend
+*.layout
